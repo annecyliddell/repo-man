@@ -1,0 +1,31 @@
+body {
+	background-color: #fdd700;
+	font-family: garamond, arial;
+	color: green;
+}
+h2 {
+	font-style: italic; 
+	color: #f06655;
+}
+h3 {
+	font-variant: small-caps;
+	color: #cccccc;
+}
+h4 {
+	font-family: mistral, arial;
+	color: #87b952;
+}
+p {
+	font-family: garamond, arial;
+	color: red;
+	text-align: center;
+}
+a {
+	font-variant: small-caps;
+	color: #464a65;
+	text-align: center;
+
+}
+a:hover {
+	text-decoration: none;
+}
